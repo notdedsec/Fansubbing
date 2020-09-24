@@ -8,4 +8,4 @@ The tag in front of each folder denotes the group under which the scripts have b
 
 ## Contact
 
-You can find me in the KaizokuNetwork Discord or the AnimeKaizoku Telegram chat or you can reach out to me on personally at notdedsec#6125 or on Telegram @notdedsec.
+You can find me in the [Kaizoku Network Server](http://discord.animekaizoku.com/) and the [AnimeKaizoku Telegram Chat](http://telegram.animekaizoku.com/) or you can personally reach out to me at notdedsec#6125 on Discoed and @notdedsec on Telegram.
