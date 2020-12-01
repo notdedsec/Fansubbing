@@ -25,3 +25,5 @@ deband = core.f3kdb.Deband(scaled, range=16, preset="low", grainc=0, output_dept
 grain = kgf.adaptive_grain(deband, 0.25)
 final = fvf.Depth(grain, 10)
 final.set_output()
+
+# i'm well aware that this is a shit script.
