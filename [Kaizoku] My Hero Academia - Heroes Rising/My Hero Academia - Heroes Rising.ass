@@ -1373,7 +1373,7 @@ Dialogue: 0,1:16:18.12,1:16:22.14,Dialogue,,0,0,0,,However, my quirk can only \N
 Dialogue: 0,1:16:22.64,1:16:25.90,Dialogue,,0,0,0,,It's not very useful for people with other blood types.
 Dialogue: 0,1:16:25.90,1:16:28.15,Dialogue,,0,0,0,,Mr. Shimano, do you have a family?
 Dialogue: 0,1:16:28.15,1:16:31.99,Dialogue,,0,0,0,,A daughter and a son who live on Nabu Island.
-Dialogue: 0,1:16:32.92,1:16:36.82,Dialogue,,0,0,0,,That's pretty far but Nabu Island \Nis still within the culprit's range.
+Dialogue: 0,1:16:32.92,1:16:36.82,Dialogue,,0,0,0,,That's pretty far, but Nabu Island \Nis still within the culprit's range.
 Dialogue: 0,1:16:34.95,1:16:34.99,Signs,,0,0,0,,{=15}{\fscx100\fscy100\alpha&H00&\fs60\blur1\b1\c&HFFFFFF&\1a&H14&\pos(486,1144)}Nabu Island
 Dialogue: 0,1:16:34.99,1:16:35.03,Signs,,0,0,0,,{=15}{\fscx100.61\fscy100.61\alpha&H00&\fs60\blur1.01\b1\c&HFFFFFF&\1a&H14&\pos(519.97,1119.94)}Nabu Island
 Dialogue: 0,1:16:35.03,1:16:35.07,Signs,,0,0,0,,{=15}{\fscx100.51\fscy100.51\alpha&H00&\fs60\blur1.01\b1\c&HFFFFFF&\1a&H14&\pos(553.02,1095.8)}Nabu Island
