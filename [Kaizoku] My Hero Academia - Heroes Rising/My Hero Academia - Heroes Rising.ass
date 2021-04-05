@@ -770,7 +770,7 @@ Dialogue: 0,0:34:53.03,0:34:53.95,Dialogue,,0,0,0,,What?!
 Dialogue: 0,0:34:53.95,0:34:56.82,Dialogue,,0,0,0,,Ojiro and the others are holding \Nthem off but they need backup!
 Dialogue: 0,0:34:56.82,0:34:57.92,Dialogue,,0,0,0,,Iida!
 Dialogue: 0,0:34:57.92,0:34:59.58,Dialogue,,0,0,0,,There's no time to hesitate.
-Dialogue: 0,0:35:00.02,0:35:03.29,Dialogue,,0,0,0,,We'll need split up into two teams \Nand deal with the villains!
+Dialogue: 0,0:35:00.02,0:35:03.29,Dialogue,,0,0,0,,We'll need to split up into two teams \Nand deal with the villains!
 Dialogue: 0,0:35:03.91,0:35:08.46,Dialogue,,0,0,0,,Bakugo, Kirishima and Kaminari. \NIntercept the villain at the shopping arcade.
 Dialogue: 0,0:35:08.80,0:35:13.97,Dialogue,,0,0,0,,Yaoyorozu, Jiro and Ashido. \NGo with them to help with first aid and evacuation.
 Dialogue: 0,0:35:14.29,0:35:18.77,Dialogue,,0,0,0,,Todoroki, Sato, Sero and Tokoyami. \NCome with me to backup Ojiro to the beach.
@@ -959,7 +959,7 @@ Dialogue: 0,0:46:39.45,0:46:42.95,Dialogue,,0,0,0,,Damn it! Where'd that come fr
 Dialogue: 0,0:46:45.95,0:46:47.33,DialogueAlt,,0,0,0,,Move.
 Dialogue: 0,0:46:47.33,0:46:48.95,DialogueAlt,,0,0,0,,Move!
 Dialogue: 0,0:46:48.95,0:46:51.21,Dialogue,,0,0,0,,You just won't stop barking.
-Dialogue: 0,0:46:51.95,0:46:54.51,Dialogue,,0,0,0,,You're the one who is barking!
+Dialogue: 0,0:46:51.95,0:46:54.51,Dialogue,,0,0,0,,You're the one who's barking!
 Dialogue: 0,0:46:57.59,0:46:58.80,Dialogue,,0,0,0,,Damn Deku!
 Dialogue: 0,0:47:03.97,0:47:09.43,Attack,,0,0,0,,Detroit Smash!
 Dialogue: 0,0:47:15.52,0:47:17.86,Dialogue,,0,0,0,,Wh-What's happening now?
@@ -1373,7 +1373,7 @@ Dialogue: 0,1:16:18.12,1:16:22.14,Dialogue,,0,0,0,,However, my quirk can only \N
 Dialogue: 0,1:16:22.64,1:16:25.90,Dialogue,,0,0,0,,It's not very useful for people with other blood types.
 Dialogue: 0,1:16:25.90,1:16:28.15,Dialogue,,0,0,0,,Mr. Shimano, do you have a family?
 Dialogue: 0,1:16:28.15,1:16:31.99,Dialogue,,0,0,0,,A daughter and a son who live on Nabu Island.
-Dialogue: 0,1:16:32.92,1:16:36.82,Dialogue,,0,0,0,,That's pretty far but Nabu Island \Nis still within the culprit's range.
+Dialogue: 0,1:16:32.92,1:16:36.82,Dialogue,,0,0,0,,That's pretty far, but Nabu Island \Nis still within the culprit's range.
 Dialogue: 0,1:16:34.95,1:16:34.99,Signs,,0,0,0,,{=15}{\fscx100\fscy100\alpha&H00&\fs60\blur1\b1\c&HFFFFFF&\1a&H14&\pos(486,1144)}Nabu Island
 Dialogue: 0,1:16:34.99,1:16:35.03,Signs,,0,0,0,,{=15}{\fscx100.61\fscy100.61\alpha&H00&\fs60\blur1.01\b1\c&HFFFFFF&\1a&H14&\pos(519.97,1119.94)}Nabu Island
 Dialogue: 0,1:16:35.03,1:16:35.07,Signs,,0,0,0,,{=15}{\fscx100.51\fscy100.51\alpha&H00&\fs60\blur1.01\b1\c&HFFFFFF&\1a&H14&\pos(553.02,1095.8)}Nabu Island
@@ -1452,11 +1452,11 @@ Dialogue: 0,1:20:12.49,1:20:13.96,Dialogue,,0,0,0,,I told you, didn't I?
 Dialogue: 0,1:20:14.25,1:20:19.55,Dialogue,,0,0,0,,I'm the man who will surpass All Might \Nand become the number one hero!
 Dialogue: 0,1:20:24.51,1:20:26.14,Dialogue,,0,0,0,,Take Mahoro and run.
 Dialogue: 0,1:20:26.14,1:20:26.93,Dialogue,,0,0,0,,Right!
-Dialogue: 0,1:20:27.89,1:20:28.81,Dialogue,,0,0,0,,C'mon sis!
+Dialogue: 0,1:20:27.89,1:20:28.81,Dialogue,,0,0,0,,C'mon, sis!
 Dialogue: 0,1:20:37.23,1:20:39.90,Dialogue,,0,0,0,,How could you possibly have avoided my lightning?
 Dialogue: 0,1:20:39.90,1:20:42.61,Dialogue,,0,0,0,,You've stopped us with that before!
 Dialogue: 0,1:20:44.52,1:20:45.45,Dialogue,,0,0,0,,That's why,
-Dialogue: 0,1:20:46.11,1:20:49.94,Dialogue,,0,0,0,,we used that thunder idiot as lightning rod.
+Dialogue: 0,1:20:46.11,1:20:49.94,Dialogue,,0,0,0,,we used that thunder idiot as a lightning rod.
 Dialogue: 0,1:20:49.94,1:20:52.95,Dialogue,,0,0,0,,W-Wasn't that... a bit too much?
 Dialogue: 0,1:21:01.42,1:21:04.26,Attack,,0,0,0,,Smash!
 Dialogue: 0,1:21:04.26,1:21:06.68,Dialogue,,0,0,0,,Die!
@@ -1482,9 +1482,9 @@ Dialogue: 0,1:23:26.12,1:23:27.61,Dialogue,,0,0,0,,Sis!
 Dialogue: 0,1:23:36.33,1:23:37.79,Dialogue,,0,0,0,,The entrance!
 Dialogue: 0,1:23:40.29,1:23:41.41,Dialogue,,0,0,0,,Sato!
 Dialogue: 0,1:23:41.41,1:23:44.00,Dialogue,,0,0,0,,I can hold this! Get everyone back!
-Dialogue: 0,1:23:53.55,1:23:57.39,Dialogue,,0,0,0,,E-Even 100% wasn't enough.
-Dialogue: 0,1:23:57.39,1:24:00.16,Dialogue,,0,0,0,,D-Dammit.
-Dialogue: 0,1:24:00.16,1:24:04.55,Dialogue,,0,0,0,,Even after I lowered myself to fight alongside Deku.
+Dialogue: 0,1:23:53.55,1:23:57.39,DialogueAlt,,0,0,0,,E-Even 100% wasn't enough.
+Dialogue: 0,1:23:57.39,1:24:00.16,DialogueAlt,,0,0,0,,D-Dammit.
+Dialogue: 0,1:24:00.16,1:24:04.55,DialogueAlt,,0,0,0,,Even after I lowered myself to fight alongside Deku.
 Dialogue: 0,1:24:04.55,1:24:05.90,Dialogue,,0,0,0,,It's no use.
 Dialogue: 0,1:24:06.44,1:24:09.78,Dialogue,,0,0,0,,You simply don't have the strength to defeat me.
 Dialogue: 0,1:24:09.78,1:24:12.15,Dialogue,,0,0,0,,You won't survive the new world that I'll create.
@@ -1578,7 +1578,7 @@ Dialogue: 0,1:33:33.20,1:33:36.05,Dialogue,,0,0,0,,One For All to Kacchan.
 Dialogue: 0,1:33:37.58,1:33:39.47,Dialogue,,0,0,0,,One For All?!
 Dialogue: 0,1:33:39.95,1:33:47.48,Dialogue,,0,0,0,,If we both hadn't used One For All, \Nthere's no way we could've saved everyone.
 Dialogue: 0,1:33:48.30,1:33:51.82,Dialogue,,0,0,0,,There's no way we could've defeated the villain.
-Dialogue: 0,1:33:51.82,1:33:55.49,Dialogue,,0,0,0,,That's why, I don't regret it.
+Dialogue: 0,1:33:51.82,1:33:55.49,Dialogue,,0,0,0,,That's why I don't regret it.
 Dialogue: 0,1:33:56.00,1:33:58.66,Dialogue,,0,0,0,,But still, I'm sorry.
 Dialogue: 0,1:33:58.66,1:34:01.78,Dialogue,,0,0,0,,You chose me as your successor.
 Dialogue: 0,1:34:02.72,1:34:05.70,Dialogue,,0,0,0,,You told me I can become a hero.
@@ -1606,7 +1606,7 @@ Dialogue: 0,1:36:54.22,1:36:57.50,Dialogue,,0,0,0,,I'm just getting started. I'l
 Dialogue: 0,1:36:57.50,1:37:01.63,Dialogue,,0,0,0,,Don't worry, I will fulfill your dream.
 Dialogue: 0,1:37:02.56,1:37:06.61,Dialogue,,0,0,0,,There can only be one true king.
 Dialogue: 0,1:37:08.36,1:37:11.27,Dialogue,,0,0,0,,That's right, just one.
-Dialogue: 0,1:37:13.26,1:37:15.27,Dialogue,,0,0,0,,Goodnight Nine.
+Dialogue: 0,1:37:13.26,1:37:15.27,Dialogue,,0,0,0,,Good night, Nine.
 Dialogue: 0,1:37:17.60,1:37:18.98,Dialogue,,0,0,0,,You did well.
 Dialogue: 0,1:37:24.24,1:37:24.74,Signs,,0,0,0,,{=20}{\fscy100\alpha&H00&\fnLino Stamp\fs24\fscx120\fax-0.5\be1\c&HFFFFFF&\1a&H32&\frz24.31\pos(1304.5,600.98)}Iogi Heights
 Dialogue: 0,1:37:24.74,1:37:25.45,Signs,,0,0,0,,{=20}{\fscy100\alpha&H00&\fnLino Stamp\fs24\fscx120\fax-0.5\be1\c&HFFFFFF&\1a&H32&\frz24.31\pos(1304.49,600.98)}Iogi Heights
